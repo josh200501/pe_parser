@@ -1,5 +1,5 @@
-.exe
-.swp
-.tmp
-.pyc
+*.exe
+*.swp
+*.tmp
+*.pyc
 /test
